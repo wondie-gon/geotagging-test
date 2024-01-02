@@ -1,0 +1,136 @@
+{
+    "geolocations" : [
+        {
+            "farmer_id": "7226899",
+            "deviceid": "collect:JrfB31ybg99ayRQD",
+            "device_model": "Samsung A14",
+            "lat": "11.62338",
+            "long": "37.27968",
+            "altitude": "1837",
+            "gps_precision": "3.96",
+            "photo_name": "1698816957267.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2Fe68ec089-a14b-4c4f-aade-208ed5da5f36%2F1698816957267.jpg"
+        },
+        {
+            "farmer_id": "7226906",
+            "deviceid": "collect:JrfB31ybg99ayRQD",
+            "device_model": "Samsung A14",
+            "lat": "11.6238",
+            "long": "37.28048",
+            "altitude": "1846",
+            "gps_precision": "4",
+            "photo_name": "1698817762626.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2Fa611fbe2-f3be-48dd-9d9f-a3546d58f7c9%2F1698817762626.jpg"
+        },
+        {
+            "farmer_id": "7226929",
+            "deviceid": "collect:JrfB31ybg99ayRQD",
+            "device_model": "Samsung A14",
+            "lat": "11.62352",
+            "long": "37.28283",
+            "altitude": "1802",
+            "gps_precision": "4",
+            "photo_name": "1698819132907.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2Fa9d3600e-3777-4db5-9662-d2b0784398c8%2F1698819132907.jpg"
+        },
+        {
+            "farmer_id": "7227174",
+            "deviceid": "collect:9nN9t2XPBbMRWziV",
+            "device_model": "Samsung A04",
+            "lat": "11.61575",
+            "long": "37.28587",
+            "altitude": "1823.5",
+            "gps_precision": "4",
+            "photo_name": "1698909261295.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2Fc296500b-1a7c-4ddc-a745-ef335a24b729%2F1698909261295.jpg"
+        },
+        {
+            "farmer_id": "7227215",
+            "deviceid": "collect:9nN9t2XPBbMRWziV",
+            "device_model": "Samsung A04",
+            "lat": "11.62261",
+            "long": "37.27954",
+            "altitude": "1841.5",
+            "gps_precision": "3.9",
+            "photo_name": "1698902536749.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2Fc03f43cb-2eaa-4542-92ba-f225632a28d2%2F1698902536749.jpg"
+        },
+        {
+            "farmer_id": "7227235",
+            "deviceid": "collect:9nN9t2XPBbMRWziV",
+            "device_model": "Samsung A04",
+            "lat": "11.62068",
+            "long": "37.2796",
+            "altitude": "1864.5",
+            "gps_precision": "4",
+            "photo_name": "1698903788175.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2F073c3fff-d245-4091-9fe9-631b27e1790f%2F1698903788175.jpg"
+        },
+        {
+            "farmer_id": "7227243",
+            "deviceid": "collect:JrfB31ybg99ayRQD",
+            "device_model": "Samsung A14",
+            "lat": "11.62257",
+            "long": "37.28056",
+            "altitude": "1827",
+            "gps_precision": "3.95",
+            "photo_name": "1698815624840.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2Fd20f332b-8d97-43d6-b4ea-ab5fd32d1753%2F1698815624840.jpg"
+        },
+        {
+            "farmer_id": "7227249",
+            "deviceid": "collect:9nN9t2XPBbMRWziV",
+            "device_model": "Samsung A04",
+            "lat": "11.6198",
+            "long": "37.27975",
+            "altitude": "1868.2",
+            "gps_precision": "3.95",
+            "photo_name": "1698904854120.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2F11444d63-e2a5-4803-b9d5-d083ebf5385d%2F1698904854120.jpg"
+        },
+        {
+            "farmer_id": "7227718",
+            "deviceid": "collect:C585sShvJN5dJAmj",
+            "device_model": "OPPO A77",
+            "lat": "11.61355",
+            "long": "37.28432",
+            "altitude": "1835.4",
+            "gps_precision": "3.993",
+            "photo_name": "1698910392012.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2F92238fb1-d00d-4215-8ce3-9b02f5eae845%2F1698910392012.jpg"
+        },
+        {
+            "farmer_id": "7227742",
+            "deviceid": "collect:C585sShvJN5dJAmj",
+            "device_model": "OPPO A77",
+            "lat": "11.62414",
+            "long": "37.28355",
+            "altitude": "1821.3",
+            "gps_precision": "3.849",
+            "photo_name": "1698900825972.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2F0f775707-66c3-45cf-8cd8-748adf41662d%2F1698900825972.jpg"
+        },
+        {
+            "farmer_id": "7227752",
+            "deviceid": "collect:C585sShvJN5dJAmj",
+            "device_model": "OPPO A77",
+            "lat": "11.62315",
+            "long": "37.28269",
+            "altitude": "1813.2",
+            "gps_precision": "4",
+            "photo_name": "1698900045566.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2F3757374f-70cb-4bd9-bbd0-29470fcd97d6%2F1698900045566.jpg"
+        },
+        {
+            "farmer_id": "7227841",
+            "deviceid": "collect:C585sShvJN5dJAmj",
+            "device_model": "OPPO A77",
+            "lat": "11.61847",
+            "long": "37.28644",
+            "altitude": "1833.8",
+            "gps_precision": "3.987",
+            "photo_name": "1698907367468.jpg",
+            "photo_path": "https://kc.oneacrefund.org/media/original?media_file=wondie%2Fattachments%2F971a11e5d2d046ac93a4b95877c2b319%2F652f1630-e8ee-4b09-b877-f3c44e125afb%2F1698907367468.jpg"
+        }
+    ]
+}
